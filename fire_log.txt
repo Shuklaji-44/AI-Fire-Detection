@@ -1,0 +1,8 @@
+[2025-05-03 10:08:44] Event: Fire Detected, Fire Count: 1
+[2025-05-03 10:08:44] Event: Fire Detected, Fire Count: 2
+[2025-05-03 10:08:46] Event: Fire Detected, Fire Count: 3
+[2025-05-03 10:09:01] Event: Fire Detected, Fire Count: 4
+[2025-05-03 10:09:09] Event: Fire Detected, Fire Count: 5
+[2025-05-03 10:09:09] Event: Fire Detected, Fire Count: 6
+[2025-05-29 20:53:10] Event: Fire Detected, Fire Count: 1
+[2025-06-06 21:12:28] Event: Fire Detected, Fire Count: 1
